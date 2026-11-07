@@ -1,0 +1,6 @@
+PENDAPAT PRIBADI:
+----------------------------
+
+Menurut saya, setelah mengikuti workshop ini. Saya merasakan materi ini sangat berguna, Karena menggunakan GIT yang dihubungkan dengan repository seperti GITHUB. 
+
+Mengapa begitu ?, Sebelum saya menggunakan GIT. Saya mengupload source code file ke GitHub itu dilakukan secara manual. 
